@@ -23,7 +23,4 @@ and to inspect the block: "hello.sayHello()"
 
 
 
-PRESENTATION
-01. What is Blockchain
-02. Bitcoin and Blockchain
-03. How Does It Work
+PRESENTATION https://slides.com/sinisamikulic
